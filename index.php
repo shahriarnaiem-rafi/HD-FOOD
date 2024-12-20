@@ -8,8 +8,8 @@
 </head>
 <body>
     <button><a href="login.php">Log in</a></button>
+    <button><a href="signup.php">Sign Up</a></button>
     
 </body>
 </html>
-
 
